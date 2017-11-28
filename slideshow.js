@@ -1,8 +1,8 @@
+
+var images = ['cybermonday1.jpeg','cybermonday2.jpeg','cybermonday3.jpeg','cybermonday4.jpeg','cybermonday5.jpeg'];
 // Slideshow Activity
 // Students: follow the instructions below:
 // TODO: Put links to our images in this image array.
-
-var images = ['cybermonday1.jpeg','cybermonday2.jpeg','cybermonday3.jpeg','cybermonday4.jpeg','cybermonday5.jpeg'];
 
 // Variable showImage will hold the setInterval when we start the slideshow
 var showImage;
